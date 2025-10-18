@@ -20,9 +20,6 @@
   "devDependencies": {
     "nodemon": "^1.18.9",
     "sonarqube-scanner": "^2.7.0"
-    <sonar.host.url>http://13.50.224.226:9000/</sonar.host.url>
-                <sonar.login>admin</sonar.login>
-                <sonar.password>admin123</sonar.password>
   },
   "engines": {
     "node": "v10.6.0"
